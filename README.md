@@ -139,3 +139,4 @@ Both of the two conditions need to be satisfied. Although `ro.adb.secure` is a r
 value is set at build time (written into `/prop.default`). It defaults to `1` on `-user` builds, and
 `0` for other build variants. The value is overridable via `PRODUCT_DEFAULT_PROPERTY_OVERRIDES`.
 # platform_bootable_recovery
+# platform_bootable_recovery
